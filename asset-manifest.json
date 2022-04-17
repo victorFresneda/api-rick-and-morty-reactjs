@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/api-rick-and-morty-reactjs/static/js/main.206a8fb1.js",
+    "index.html": "/api-rick-and-morty-reactjs/index.html",
+    "main.206a8fb1.js.map": "/api-rick-and-morty-reactjs/static/js/main.206a8fb1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.206a8fb1.js"
+  ]
+}
